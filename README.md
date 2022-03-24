@@ -2,14 +2,13 @@
 
 
 # Birthday-Wish
-This is a basic winform c++
+This is a basic c++
 
 ## 🛠 Skills
 C++, Visual Studio, File handling, Sound
 
 
 ## Screenshots
-
 ![App Screenshot](https://github.com/imumer12/Birthday-Wish/blob/main/birthday%20wish.png)
 
 
